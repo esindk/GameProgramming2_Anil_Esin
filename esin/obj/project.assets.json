@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\OneDrive\\Masaüstü\\3D_Animation\\y\\esin\\esin\\esin.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Documents\\GitHub\\EsinDilaraKal-n_GameEngines1\\esin\\esin.csproj",
       "projectName": "esin",
-      "projectPath": "C:\\Users\\esind\\OneDrive\\Masaüstü\\3D_Animation\\y\\esin\\esin\\esin.csproj",
+      "projectPath": "C:\\Users\\esind\\Documents\\GitHub\\EsinDilaraKal-n_GameEngines1\\esin\\esin.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\OneDrive\\Masaüstü\\3D_Animation\\y\\esin\\esin\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Documents\\GitHub\\EsinDilaraKal-n_GameEngines1\\esin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
